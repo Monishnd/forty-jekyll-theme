@@ -3,7 +3,7 @@ title: Forty
 subtitle: by HTML5 UP
 email: monishdeshmukh4124@gmail.com
 description: A portfolio website by Monish Deshmukh
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: https://monishnd.github.io
 author: Monish Deshmukh
 street_address: 55, Merrimac St.
